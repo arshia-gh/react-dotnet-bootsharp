@@ -1,0 +1,6 @@
+{
+    "name": "dotnet-bindings",
+    "type": "module",
+    "main": "bin/dotnet-bindings/index.mjs",
+    "types": "bin/dotnet-bindings/types/index.d.ts"
+}
